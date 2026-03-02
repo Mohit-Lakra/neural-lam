@@ -4,6 +4,8 @@ parts:
   - caption: Tutorials
     chapters:
       - file: notebooks/hello_world_danra
+      - file: notebooks/adding_new_datastore
+      - file: notebooks/datastore_explorer
 
   - caption: API Reference
     chapters:
