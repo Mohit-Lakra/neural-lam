@@ -16,7 +16,7 @@ probabilistic forecasting.
 
 ## Getting Started
 
-::::{grid} 3
+::::{grid} 2
 :::{grid-item-card} 🚀 HelloWorld Tutorial
 :link: notebooks/hello_world_danra
 :link-type: doc
