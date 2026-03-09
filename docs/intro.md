@@ -33,6 +33,7 @@ Forecasting in Realistic Settings"** (Adamov et al., 2025) —
 | Goal | Resource |
 |---|---|
 | Spin up the workflow end-to-end | [Hello World: Training on DANRA](notebooks/hello_world_danra) |
+| Visualise the graph instantly in Colab | [Try it Online](try_it_online) |
 | Understand the canonical datastore | [Datastore Explorer](notebooks/datastore_explorer) |
 | Integrate a custom dataset | [Adding a New Datastore](notebooks/adding_new_datastore) |
 | Dive into every module | [Full API Reference](autoapi/index) |
