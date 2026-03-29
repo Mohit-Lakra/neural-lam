@@ -17,6 +17,7 @@
       load_graph
       log_on_rank_zero
       make_mlp
+      rank_zero_print
       setup_training_logger
       zero_index_edge_index
       zero_index_g2m

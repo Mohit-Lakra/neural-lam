@@ -89,6 +89,7 @@ activate
 # Build artifacts
 dist/
 build/
+docs/_build/
 *.egg-info/
 
 tests/test_outputs/
